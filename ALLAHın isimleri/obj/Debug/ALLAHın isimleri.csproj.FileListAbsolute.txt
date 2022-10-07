@@ -1,0 +1,7 @@
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\bin\Debug\ALLAHın isimleri.exe.config
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\bin\Debug\ALLAHın isimleri.exe
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\bin\Debug\ALLAHın isimleri.pdb
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\obj\Debug\ALLAHın isimleri.csprojAssemblyReference.cache
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\obj\Debug\ALLAHın isimleri.csproj.CoreCompileInputs.cache
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\obj\Debug\ALLAHın isimleri.exe
+C:\Users\Can ÖZEN\Desktop\C#\ALLAHın isimleri\ALLAHın isimleri\obj\Debug\ALLAHın isimleri.pdb
